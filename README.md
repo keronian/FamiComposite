@@ -5,4 +5,4 @@ This is a basic Famicom Composite bypass adapter, inspired by other compact desi
 
 Pin 22 of the PPU is used as a +5V here, as the reset pin of the PPU is tied to +5V in this system.
 
-![3D Render](Images\pcbrender.png?raw=true)
+![3D Render](Images/pcbrender.png?raw=true)
